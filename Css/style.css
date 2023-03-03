@@ -1,0 +1,113 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+}
+hr{
+    border-style: dotted none none;
+    border-radius: 0%;
+    border-color: #eaf6f6;
+    border-width: 10px;
+    width: 20%;
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Inspiration', cursive;
+    font-size: 90px;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+h2{
+    color: #66bfbf;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 10px;
+}
+h3{
+    color: #11999E;
+    font-family: 'Reem Kufi', sans-serif;
+}
+a{
+    color: #11999E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+P{
+    font-size: 1.25rem;
+    line-height: 2;
+}
+button{
+    color: white;
+    background-color: #66bfbf;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding: 15px;
+    box-shadow: 10px 5px 5px grey;
+    margin-bottom: 75px;
+
+}
+button:hover{
+    color: black;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width:50%;
+
+}
+.me-selfie{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+.tech-skill{
+    border-radius: 200px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.hair-skill{
+    border-radius: 200px;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.underline{
+    text-decoration: underline;
+}
+.top-container{
+    background-color: rgb(195, 195, 226);
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    height: 100px;
+    padding-top: 30px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.copyright-footer{
+    color: #eaf6f6;
+    font-size: 16px;
+}
