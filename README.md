@@ -1,2 +1,2 @@
 # First-Website
-Creating my first website &amp;&amp; it's all about me!
+Creating my first website and it's all about me!
